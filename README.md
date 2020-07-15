@@ -1,2 +1,2 @@
-# MusicFeel_Backend
+# MusicFeel_SpotifyAPI
 MusicFeel functional core
